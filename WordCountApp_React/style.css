@@ -1,7 +1,7 @@
 html,
 body {
   background: black;
-  color: #00b800;
+  color: green;
   margin: 0;
   padding: 0;
   padding-top: 10px;
@@ -18,7 +18,7 @@ button {
   display: block;
   margin: 0 auto;
   border: none;
-  background: #a80020;
+  background: blue;
   background: #00b800;
   padding: 10px 20px;
   text-transform: uppercase;
