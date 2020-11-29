@@ -47,7 +47,7 @@ small {
   padding: 0.5rem 2rem;
   line-height: 2.8rem;
   border-radius: 20px;
-  border: 1px solid #ddd;
+  border: 1px solid blue;
   margin-bottom: 1rem;
 }
 
@@ -87,7 +87,7 @@ small {
   border-radius: 10px;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.25);
   margin-bottom: 2rem;
-  background-color: white;
+  background-color: grey;
 }
 
 .card--title {
