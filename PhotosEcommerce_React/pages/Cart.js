@@ -1,4 +1,4 @@
-import React, {useState, useContext} from "react"
+import React, {useState, useContext} from "../PhotosEcommerce_React/components/node_modules/react"
 import {Context} from "../Context"
 import CartItem from "../components/CartItem"
 

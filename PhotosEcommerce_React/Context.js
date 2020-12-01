@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from "react"
+import React, {useState, useEffect} from "./components/node_modules/react"
 
 const Context = React.createContext()
 
